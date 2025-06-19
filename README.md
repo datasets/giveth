@@ -11,7 +11,54 @@ Giveth.io is a blockchain based giving platform. this is about analysing how muc
 
 > Over the first half of 2023 from January to July 2023, as a result of this partnership General Magic has contributed over $69K (nice) worth of revenue to Giveth, which directly helped fund operations and keep the lights on. -- https://forum.giveth.io/t/general-magic-technical-services-partnership/870/10
 
-# Funding out
+# How Giveth spends money
+
+Giveth spending on their own team. Wonderfully transparent in posts on their forum 👏
+
+Example:  April 2025: $52,039.88
+
+- https://forum.giveth.io/t/giveth-team-compensation-and-expenses-april-2025/2027
+- From Giveth Treasury: $23,501.18
+- Covered by General Magic: $28,538.70**  
+
+For 2023 and earlier the team seems to have been paid by Griff (the founder) with his other crypto resources and then the idea is he is compensated with their internal "equity" token `GIV`. this avoids them paying people in their GIV token which they then liquidate into stable tokens driving down the price of `GIV`.
+
+## Over time
+
+| date    | total_compensation_cost |
+|---------|--------------------------|
+| 2024-01 | 90,713                   |
+| 2024-02 | 93,334                   |
+| 2024-03 | 105,722                  |
+| 2024-04 | 122,329                  |
+| 2024-05 | 115,389                  |
+| 2024-06 | 112,662                  |
+| 2024-07 | 122,608                  |
+| 2024-08 | 121,757                  |
+| 2024-09 | 115,393                  |
+| 2024-10 | 105,431                  |
+| 2024-11 | 94,421                   |
+| 2024-12 | 90,718                   |
+| 2025-01 | 92,424                   |
+| 2025-02 | 88,194                   |
+| 2025-03 | 84,093                   |
+| 2025-04 | 57,046                   |
+
+### 2025
+
+![image](https://github.com/user-attachments/assets/9cc3bca0-2a45-49e0-877f-9a0f3b495ad9)
+
+### 2024
+
+![image](https://github.com/user-attachments/assets/e1aca32e-306e-4dc0-b802-a12ba8180149)
+
+# How Giveth raises money
+
+Examples of their internal fund-raising efforts: https://forum.giveth.io/t/fundraising-season-6-proposal/1887
+
+Raising $100k+ a quarter from their funding applications within the web3 ecosystem.
+
+# What Giveth Funded
 
 https://stats.giveth.io/
 
