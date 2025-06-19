@@ -2,6 +2,79 @@
 
 Giveth.io is a blockchain based giving platform. this is about analysing how much money they have given out and when -- and how much they spend to run the platform.
 
+## History
+
+- Austerity measures in Oct 2022 leading to partnership with generalmagic.io
+  - https://forum.giveth.io/t/general-magic-technical-services-partnership/870
+
+### Partnership with General Magic
+
+> Over the first half of 2023 from January to July 2023, as a result of this partnership General Magic has contributed over $69K (nice) worth of revenue to Giveth, which directly helped fund operations and keep the lights on. -- https://forum.giveth.io/t/general-magic-technical-services-partnership/870/10
+
+# Funding out
+
+https://stats.giveth.io/
+
+Total as of 2025-06-19: $4,669,803
+
+![image](https://github.com/user-attachments/assets/2cfea7ae-6e4d-4401-a3ab-eb20d98083ad)
+
+| date    |   usd  |
+|---------|--------|
+| 2021/2  |     77 |
+| 2021/3  |   1281 |
+| 2021/4  |   1383 |
+| 2021/5  |    449 |
+| 2021/6  |  34417 |
+| 2021/7  |   5122 |
+| 2021/8  |   5981 |
+| 2021/9  |    692 |
+| 2021/10 |   9860 |
+| 2021/11 | 129723 |
+| 2021/12 | 176698 |
+| 2022/1  |  67480 |
+| 2022/2  |  51764 |
+| 2022/3  | 118289 |
+| 2022/4  |  94520 |
+| 2022/5  |  86629 |
+| 2022/6  |  20586 |
+| 2022/7  | 245549 |
+| 2022/8  | 322650 |
+| 2022/9  |  94052 |
+| 2022/10 |  29755 |
+| 2022/11 |  36509 |
+| 2022/12 |  30487 |
+| 2023/1  |  25169 |
+| 2023/2  |  42027 |
+| 2023/3  | 128187 |
+| 2023/4  |  18312 |
+| 2023/5  |  40145 |
+| 2023/6  |  13624 |
+| 2023/7  | 263964 |
+| 2023/8  |  24252 |
+| 2023/9  |  20408 |
+| 2023/10 |  44998 |
+| 2023/11 |  30568 |
+| 2023/12 |  30938 |
+| 2024/1  | 233353 |
+| 2024/2  |  39611 |
+| 2024/3  | 262002 |
+| 2024/4  |  55922 |
+| 2024/5  | 361728 |
+| 2024/6  |  99825 |
+| 2024/7  |  68513 |
+| 2024/8  |  64109 |
+| 2024/9  |  33740 |
+| 2024/10 | 526281 |
+| 2024/11 |  13727 |
+| 2024/12 |  19106 |
+| 2025/1  | 213870 |
+| 2025/2  | 143375 |
+| 2025/3  | 157735 |
+| 2025/4  |  96675 |
+| 2025/5  |  16085 |
+| 2025/6  |  19671 |
+
 ## Galactic Round 7 in 2024
 
 https://blog.giveth.io/the-galactic-giving-round-results-are-here-c73c62abd2f8
