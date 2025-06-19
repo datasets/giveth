@@ -2,6 +2,10 @@
 
 Giveth.io is a blockchain based giving platform. this is about analysing how much money they have given out and when -- and how much they spend to run the platform.
 
+Interesting points:
+
+- The amount they spend on their own team developing the platform nearly matches what they give out in funds in 2024
+
 ## History
 
 - Austerity measures in Oct 2022 leading to partnership with generalmagic.io
@@ -23,7 +27,11 @@ Example:  April 2025: $52,039.88
 
 For 2023 and earlier the team seems to have been paid by Griff (the founder) with his other crypto resources and then the idea is he is compensated with their internal "equity" token `GIV`. this avoids them paying people in their GIV token which they then liquidate into stable tokens driving down the price of `GIV`.
 
-## Over time
+## Team spending over time
+
+NB: for most of this period the team is paid in actual stable coin (with a small portion in `GIV`.
+
+Total spent (Jan 2024 to April 2025): **$1,290,477**
 
 | date    | total_compensation_cost |
 |---------|--------------------------|
